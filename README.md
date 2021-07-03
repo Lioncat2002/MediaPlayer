@@ -12,6 +12,9 @@ Who would have thought I would qualify hehehe</br>
 - Launch the program from the launcher.java file
 
 # Contacts
-
 Discord: `Kittycat#2002`
 Gmail: `eatitall2002@gmail.com`
+
+# Donate
+- Dogecoins: D9EU2JWH2KENjUYCLxHGCB5WWc2EZhVFSQ
+- Bitcoins: 1A8zRsoZPw4pxk4YLRKiG8GsfRT
