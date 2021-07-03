@@ -12,7 +12,7 @@ Who would have thought I would qualify hehehe</br>
 - Launch the program from the launcher.java file
 
 # Contacts
-Discord: `Kittycat#2002`
+Discord: `Kittycat#2002`</br>
 Gmail: `eatitall2002@gmail.com`
 
 # Donate
